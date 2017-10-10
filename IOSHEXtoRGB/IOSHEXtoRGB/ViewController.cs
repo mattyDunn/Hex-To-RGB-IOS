@@ -50,8 +50,13 @@ namespace IOSHEXtoRGB
             // Release any cached data, images, etc that aren't in use.
         }
 
+        //Keyboard goes down when other parts of screen are clicked
+		public override void TouchesBegan(Foundation.NSSet touches, UIEvent evt)
+		{
+			base.TouchesBegan(touches, evt);
 
-
+			this.View.EndEditing(true);
+		}
 
     }
 }
