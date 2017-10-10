@@ -27,7 +27,7 @@ namespace IOSHEXtoRGB
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UITextField hexTextFeild { get; set; }
+        UIKit.UITextField hexTextField { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
@@ -50,9 +50,9 @@ namespace IOSHEXtoRGB
                 greenLabel = null;
             }
 
-            if (hexTextFeild != null) {
-                hexTextFeild.Dispose ();
-                hexTextFeild = null;
+            if (hexTextField != null) {
+                hexTextField.Dispose ();
+                hexTextField = null;
             }
 
             if (redLabel != null) {

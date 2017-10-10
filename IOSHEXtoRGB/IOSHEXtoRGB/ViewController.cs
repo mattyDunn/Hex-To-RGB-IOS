@@ -15,6 +15,30 @@ namespace IOSHEXtoRGB
         {
             base.ViewDidLoad();
             // Perform any additional setup after loading the view, typically from a nib.
+
+            convertButton.TouchUpInside += ConvertButton_TouchUpInside;
+        }
+
+        void ConvertButton_TouchUpInside(object sender, EventArgs e)
+        {
+            //Finds the input in the HEX text Field
+            string hexValue = hexTextField.Text;
+            //Seperates the Hex Value into Red Blue and Green
+            string redHex = hexValue.Substring(0, 2);
+            string greenHex = hexValue.Substring(2, 2);
+            string blueHex = hexValue.Substring(4, 2);
+
+
+            //Turns the String value into and int
+            //Turns Hex to RGB
+            int redValue = int.Parse(redHex, System.Globalization.NumberStyles.HexNumber);
+            int greenValue = int.Parse(greenHex, System.Globalization.NumberStyles.HexNumber);
+            int blueValue = int.Parse(blueHex, System.Globalization.NumberStyles.HexNumber);
+
+            //Changes Labels to the RGB value
+            redLabel.Text = redValue.ToString();
+            greenLabel.Text = greenValue.ToString();
+            blueLabel.Text = blueValue.ToString();
         }
 
         public override void DidReceiveMemoryWarning()
