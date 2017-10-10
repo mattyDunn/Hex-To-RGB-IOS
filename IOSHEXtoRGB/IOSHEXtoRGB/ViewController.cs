@@ -39,6 +39,9 @@ namespace IOSHEXtoRGB
             redLabel.Text = redValue.ToString();
             greenLabel.Text = greenValue.ToString();
             blueLabel.Text = blueValue.ToString();
+
+            //Changes Background Color to that of the RGB
+            ColorView.BackgroundColor = UIColor.FromRGB(redValue, greenValue, blueValue);
         }
 
         public override void DidReceiveMemoryWarning()
@@ -46,5 +49,9 @@ namespace IOSHEXtoRGB
             base.DidReceiveMemoryWarning();
             // Release any cached data, images, etc that aren't in use.
         }
+
+
+
+
     }
 }

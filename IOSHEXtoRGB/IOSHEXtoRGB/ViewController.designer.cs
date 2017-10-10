@@ -19,6 +19,10 @@ namespace IOSHEXtoRGB
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UIView ColorView { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton convertButton { get; set; }
 
         [Outlet]
@@ -38,6 +42,11 @@ namespace IOSHEXtoRGB
             if (blueLabel != null) {
                 blueLabel.Dispose ();
                 blueLabel = null;
+            }
+
+            if (ColorView != null) {
+                ColorView.Dispose ();
+                ColorView = null;
             }
 
             if (convertButton != null) {
