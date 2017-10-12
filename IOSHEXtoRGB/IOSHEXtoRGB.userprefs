@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{E0D18F48-FA27-47D7-9CB2-189A703F574F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IOSHEXtoRGB/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IOSHEXtoRGB/ViewController.cs">
     <Files>
       <File FileName="IOSHEXtoRGB/Main.storyboard" />
-      <File FileName="IOSHEXtoRGB/ViewController.cs" Line="25" Column="53" />
-      <File FileName="IOSHEXtoRGB/Main.cs" Line="12" Column="1" />
+      <File FileName="IOSHEXtoRGB/ViewController.cs" Line="53" Column="68" />
+      <File FileName="IOSHEXtoRGB/Main.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />

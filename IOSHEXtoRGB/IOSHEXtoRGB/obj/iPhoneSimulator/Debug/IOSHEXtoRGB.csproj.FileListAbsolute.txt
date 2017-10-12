@@ -1,0 +1,9 @@
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/bin/iPhoneSimulator/Debug/IOSHEXtoRGB.exe
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/bin/iPhoneSimulator/Debug/IOSHEXtoRGB.pdb
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/obj/iPhoneSimulator/Debug/IOSHEXtoRGB.csproj.CoreCompileInputs.cache
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/obj/iPhoneSimulator/Debug/IOSHEXtoRGB.exe
+/Users/matthewd1/Desktop/Hex To RGB/IOS/Hex-To-RGB-IOS/IOSHEXtoRGB/IOSHEXtoRGB/obj/iPhoneSimulator/Debug/IOSHEXtoRGB.pdb
